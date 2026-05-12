@@ -72,3 +72,6 @@ El proyecto incluye un sistema de rutas protegidas:
 - Las rutas `/inicio` y `/admin` requieren que el usuario esté logueado.
 - El rol `ADMIN` es necesario para acceder a la ruta `/admin`.
 - Los tokens JWT se gestionan automáticamente a través de interceptores en `src/services/api.js`.
+
+
+Proyecto frontend Integratec desarrollado en React.
